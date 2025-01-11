@@ -12,3 +12,7 @@ I just wanted to add some text to this file as part of the communicate using mar
 int exampleVariable = 10;
 cout << exampleVariable;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
