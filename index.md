@@ -5,3 +5,10 @@ I just wanted to add some text to this file as part of the communicate using mar
 ## Now I shall add an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Adding first code snippet
+
+``` c++
+int exampleVariable = 10;
+cout << exampleVariable;
+```
